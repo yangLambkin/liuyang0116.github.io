@@ -1,20 +1,20 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 向向的博客 | Jason-X Blog
+title: YangLambkin Blog
+SEOTitle: 洋洋的博客 | Jason-X Blog
 header-img: img/home-bg.jpg
 email: jianhua.xiang@gmail.com
-description: "关于软件开发、机器学习与宽客 |Jason ，C++ & Python，Machine Learning，Quant | 这里是 @Jason向向 的个人博客，不能改变世界就去改变自己。"
-keyword: "向向的博客, Jason-X Blog, 博客, 个人网站, 软件开发，人工智能, 量化交易, 金豆子的爸爸"
-url: "https://xjhpaopao.github.io"              # your host, for absolute URL
+description: "关于软件开发 |YangLambkin ，JAVA & Python，TDD, Agile | 这里是 @洋洋 的个人博客，不能改变世界就去改变自己。"
+keyword: "洋洋的博客, YangLambkin Blog, 博客, 个人网站, 软件开发，喜欢一切萌物, 金豆子的MUM"
+url: "https://yangLambkin.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     xjhlovepaopao
-zhihu_username:     Jason X
-github_username:    xjhpaopao
+weibo_username:     yangLambkin
+zhihu_username:    	yangLambkin
+github_username:    yangLambkin
 #twitter_username:  firstname-lastname-idxxxx
 #facebook_username:  firstname-lastname-idxxxx
 # linkedin_username:  firstname-lastname-idxxxx
